@@ -1,5 +1,6 @@
-### Hi there 👋
+# Welcome to my Github 👋
 
+My name is Jose David, I'm a Software Developer from Colombia; you can find me in [![Twitter][1.1]][1] and [![LinkedIn][2.1]][2]
 <!--
 **josecaro02/josecaro02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +32,8 @@ Here are some ideas to get you started:
 ## :octocat: Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josecaro02&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecaro02&hide=css)
+
+[1.1]: https://img.icons8.com/cute-clipart/30/000000/twitter.png
+[1]: https://twitter.com/j_caro02
+[2.1]: https://img.icons8.com/cute-clipart/30/000000/linkedin.png
+[2]: https://www.linkedin.com/in/josecarocantor/
