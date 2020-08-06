@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecaro02&theme=tokyonight)
-![Jose's github stats](https://github-readme-stats.vercel.app/api?username=josecaro02&count_private=true)
+## 💻 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=GNU-Emacs&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=success)
+![](https://img.shields.io/badge/Framework-IONIC-informational?style=flat&logo=Ionic&logoColor=white&color=green)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=green)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=green)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Sever-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=9cf)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+## :octocat: Github Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josecaro02&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecaro02&hide=css)
