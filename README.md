@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecaro02&theme=tokyonight)
+![Jose's github stats](https://github-readme-stats.vercel.app/api?username=josecaro02&count_private=true)
